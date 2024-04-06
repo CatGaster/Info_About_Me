@@ -3,7 +3,7 @@
    ![Alt text](My_photo.jpg)
    
    Меня зовут __Котиев Тимур__
-
+   
 
   Я Python Backend разработчик
 
